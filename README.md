@@ -4,7 +4,7 @@
 This repository contains a research project focused on building a webinar funnel from zero. I´ve selected 10  experts to analyze their sales scripts, traffic strategies, and technical setups.
 
 ## Methodology
-- **Expert selection:** List of practitioners with proven ROI and recognition in their area.
+- **Expert selection:** List of practitioners with proven experience making webinar funnels and recognition in their area.
 - **Data acquisition:** Using APIs (Supadata) to extract YouTube transcripts and manually collecting LinkedIn content from posts.
 - **Version control:** Managed via terminal (PowerShell & Git).
 
